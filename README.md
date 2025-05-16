@@ -8,6 +8,7 @@
   - [Factory Method Pattern](https://www.notion.so/yenniii/Factory-Method-Pattern-1d55ac5f618c80ba84fbddf4fe5af671?pvs=4)
   - [Decorator Pattern](https://www.notion.so/yenniii/Decorator-Pattern-1e65ac5f618c80b8a555ebe2548c1a33?pvs=4)
   - [Abstract Factory Pattern](https://www.notion.so/yenniii/Abstract-Factory-Pattern-1e65ac5f618c808e9325eb5a2e420deb?pvs=4)
+  - [Observer Pattern](https://www.notion.so/yenniii/Observer-Pattern-1ed5ac5f618c80e8a86ae9adbb5291e5?pvs=4)
   
 - ## Data Structure
   - [Hashing](https://www.notion.so/yenniii/Hashing-334ef8ca14504851bf3fe63bdfc2766a?pvs=4)
