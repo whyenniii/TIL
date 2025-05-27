@@ -31,3 +31,7 @@
 - ## Data Structure
   - [Hashing](https://www.notion.so/yenniii/Hashing-334ef8ca14504851bf3fe63bdfc2766a?pvs=4)
   - [Sorting](https://www.notion.so/yenniii/Sorting-c0c2dc7426504bcda4c94d45f2c21a0d?pvs=4)
+
+- ## Network
+  - [로드 밸런서](https://www.notion.so/yenniii/12-1045ac5f618c804490b5dfd6e1d87214?pvs=4)
+
