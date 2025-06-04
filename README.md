@@ -20,7 +20,10 @@
     - [chapter 17. 스트림 요소 처리](https://www.notion.so/yenniii/Ch17-1685ac5f618c80fabcc4eda4348ae902?pvs=4)
     - [chapter 18. 데이터 입출력](https://www.notion.so/yenniii/Ch18-17a5ac5f618c8060970bf27ff98829dd?pvs=4)
     - [chapter 19. 네트워크 입출력](https://www.notion.so/yenniii/Ch19-17b5ac5f618c80d98495cb4bdb1f9210?pvs=4)
-      
+
+- ## Database
+  - [Transaction](https://www.notion.so/yenniii/Database-Transaction-73962d1e2acb4dd2ae4889a40dc498b2?source=copy_link)
+    
 - ## Design Pattern
   - [Strategy Pattern](https://www.notion.so/yenniii/Strategy-Pattern-1c75ac5f618c8010a04df12d4f149758?pvs=4)
   - [Singleton Pattern](https://www.notion.so/yenniii/Singleton-Pattern-1d15ac5f618c80b08d5ed1b1aba1fd3c?pvs=4)
