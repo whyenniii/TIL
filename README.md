@@ -32,6 +32,7 @@
   - [Abstract Factory Pattern](https://www.notion.so/yenniii/Abstract-Factory-Pattern-1e65ac5f618c808e9325eb5a2e420deb?pvs=4)
   - [Observer Pattern](https://www.notion.so/yenniii/Observer-Pattern-1ed5ac5f618c80e8a86ae9adbb5291e5?pvs=4)
   - [Template Method Pattern](https://www.notion.so/yenniii/Template-Method-Pattern-1fb5ac5f618c807c90effe854bd3e3a7?pvs=4)
+  - [Iterator Pattern](https://www.notion.so/yenniii/Iterator-Pattern-2085ac5f618c80da8423df758ac85c7e?source=copy_link)
   
 - ## Data Structure
   - [Hashing](https://www.notion.so/yenniii/Hashing-334ef8ca14504851bf3fe63bdfc2766a?pvs=4)
