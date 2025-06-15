@@ -41,4 +41,5 @@
 
 - ## Network
   - [로드 밸런서](https://www.notion.so/yenniii/12-1045ac5f618c804490b5dfd6e1d87214?pvs=4)
-
+  - ### 모두의 네트워크
+    - [chapter 01. 네트워크 첫걸음](https://www.notion.so/yenniii/1-20d5ac5f618c80bd9781cdbcefc700c5?source=copy_link)
