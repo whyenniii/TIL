@@ -45,3 +45,4 @@
   - ### 모두의 네트워크
     - [chapter 01. 네트워크 첫걸음](https://www.notion.so/yenniii/1-20d5ac5f618c80bd9781cdbcefc700c5?source=copy_link)
     - [chapter 02. 네트워크의 기본 규칙](https://www.notion.so/yenniii/2-20f5ac5f618c80e1bbbccb1079c94b45?source=copy_link)
+    - [chapter 03. 물리 계층 : 데이터를 전기 신호로 변환하기](https://www.notion.so/yenniii/3-2195ac5f618c80ed8703e40f3615561c?source=copy_link)
