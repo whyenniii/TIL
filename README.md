@@ -36,6 +36,7 @@
   - [Mediator Pattern](https://www.notion.so/yenniii/Mediator-Pattern-20d5ac5f618c8032a407de1e613dd542?source=copy_link)
   - [Builder Pattern](https://www.notion.so/yenniii/Builder-Pattern-2155ac5f618c80eb9528d19551c059b4?source=copy_link)
   - [Facade Pattern](https://www.notion.so/yenniii/Facade-Pattern-2225ac5f618c800f80cbca3ac7e737f4?source=copy_link)
+  - [Flyweight Pattern](https://www.notion.so/yenniii/Flyweight-Pattern-2225ac5f618c808082d8f88ccc9c0f9d?source=copy_link)
   
 - ## Data Structure
   - [Hashing](https://www.notion.so/yenniii/Hashing-334ef8ca14504851bf3fe63bdfc2766a?pvs=4)
