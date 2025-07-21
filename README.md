@@ -45,7 +45,7 @@
 - ## Computer Architecture
   - ### 혼자 공부하는 컴퓨터 구조+운영체제
     - [Chapter 01. 컴퓨터 구조 시작하기](https://www.notion.so/yenniii/Chapter01-22d5ac5f618c806d8b88d522cf5f38f9?source=copy_link)
-    - [Chapter 02. 데이터[(https://www.notion.so/yenniii/Chapter-02-22d5ac5f618c80a48c82c0b5a2f4ba4b?source=copy_link)
+    - [Chapter 02. 데이터](https://www.notion.so/yenniii/Chapter-02-22d5ac5f618c80a48c82c0b5a2f4ba4b?source=copy_link)
     - [Chapter 03. 명령어](https://www.notion.so/yenniii/Chapter-03-12d5ac5f618c80c88063ffdfb4c0d913?source=copy_link)
     - [Chapter 04. CPU와 작동 원리](https://www.notion.so/yenniii/Chapter-04-CPU-12d5ac5f618c804ea052f97afe40dc0e?source=copy_link)
     - [Chapter 05. CPU 성능 향상 기법](https://www.notion.so/yenniii/Chapter-05-CPU-1345ac5f618c8077a394efefe6392e98?source=copy_link)
