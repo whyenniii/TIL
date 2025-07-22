@@ -58,3 +58,5 @@
     - [chapter 02. 네트워크의 기본 규칙](https://www.notion.so/yenniii/2-20f5ac5f618c80e1bbbccb1079c94b45?source=copy_link)
     - [chapter 03. 물리 계층 : 데이터를 전기 신호로 변환하기](https://www.notion.so/yenniii/3-2195ac5f618c80ed8703e40f3615561c?source=copy_link)
     - [chapter 04. 데이터 링크 계층 : 랜에서 데이터 전송하기](https://www.notion.so/yenniii/4-21d5ac5f618c80608411def5456a8a23?source=copy_link)
+  - ### 혼자 공부하는 네트워크
+    - [chapter 03. 네트워크 계층](https://www.notion.so/yenniii/03-2335ac5f618c8022bd69d2e289107bfb?source=copy_link)
