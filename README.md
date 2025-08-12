@@ -60,3 +60,4 @@
     - [chapter 04. 데이터 링크 계층 : 랜에서 데이터 전송하기](https://www.notion.so/yenniii/4-21d5ac5f618c80608411def5456a8a23?source=copy_link)
   - ### 혼자 공부하는 네트워크
     - [chapter 03. 네트워크 계층](https://www.notion.so/yenniii/03-2335ac5f618c8022bd69d2e289107bfb?source=copy_link)
+    - [chpater 04. 전송 계층](https://www.notion.so/yenniii/04-2425ac5f618c80c9a29bddf266390dc0?source=copy_link)
